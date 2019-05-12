@@ -11,3 +11,11 @@
 
 
 ### CH02
+> #### CH02-01 <[노트북 바로가기](https://github.com/JeongMyeong/PythonML-Guide-Study/blob/master/ch02/ch02-01.ipynb)>
+> - Scikit-learn 설치
+> - train_test_split()
+> - 예측 평가
+> - 교차검증 (KFold, StratifiedKFold, cross_val_score)  
+> - 하이퍼파라미터 튜닝(GridSearchCV)
+> #### CH02-02
+> - 예정
