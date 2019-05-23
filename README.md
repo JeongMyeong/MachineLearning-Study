@@ -17,5 +17,10 @@
 > - 예측 평가
 > - 교차검증 (KFold, StratifiedKFold, cross_val_score)  
 > - 하이퍼파라미터 튜닝(GridSearchCV)
-> #### CH02-02
-> - 예정
+> - 데이터 인코딩 (레이블인코딩, 원핫인코딩)
+> - 피처스케일링 (표준화, 정규화) (StandardScaler, MinMaxScaler)
+
+> #### CH02-02 <[노트북 바로가기](https://github.com/JeongMyeong/PythonML-Guide-Study/blob/master/ch02/ch02-02.ipynb)>
+> - 배운 내용으로 타이타닉 생존자 예측
+> - 결정트리, 랜덤포레스트, 로지스틱 회귀를 이용해 학습
+
