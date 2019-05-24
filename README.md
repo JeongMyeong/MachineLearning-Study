@@ -24,4 +24,6 @@
 > - 배운 내용으로 타이타닉 생존자 예측
 > - 결정트리, 랜덤포레스트, 로지스틱 회귀를 이용해 학습  
 
-### CH03 (평가)
+### CH03 (평가) <[노트북 바로가기](https://github.com/JeongMyeong/PythonML-Guide-Study/blob/master/ch03/ch03.ipynb)>
+- 정확도
+- 
