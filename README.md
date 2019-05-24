@@ -22,6 +22,6 @@
 
 > #### CH02-02 <[노트북 바로가기](https://github.com/JeongMyeong/PythonML-Guide-Study/blob/master/ch02/ch02-02.ipynb)>
 > - 배운 내용으로 타이타닉 생존자 예측
-> - 결정트리, 랜덤포레스트, 로지스틱 회귀를 이용해 학습
+> - 결정트리, 랜덤포레스트, 로지스틱 회귀를 이용해 학습  
 
-> #### CH03
+### CH03
