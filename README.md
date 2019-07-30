@@ -26,4 +26,10 @@
 
 ### CH03 (평가) <[노트북 바로가기](https://github.com/JeongMyeong/PythonML-Guide-Study/blob/master/ch03/ch03.ipynb)>
 - 정확도
-- 
+- 오차 행렬
+- 정밀도
+- 재현율
+- F1 스코어
+- ROC-AUC
+- [Pima Indians Diabetes Database 데이터로 정리한 ](https://github.com/JeongMyeong/PythonML-Guide-Study/blob/master/ch03/Pima-Indians-Diabetes.ipynb)
+
