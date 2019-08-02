@@ -10,19 +10,16 @@
 - apply, lambda 적용 방법
 
 
-### CH02 (사이킷런으로 시작하는 머신러닝)
-> #### CH02-01 <[노트북 바로가기](https://github.com/JeongMyeong/PythonML-Guide-Study/blob/master/ch02/ch02-01.ipynb)>
-> - Scikit-learn 설치
-> - train_test_split()
-> - 예측 평가
-> - 교차검증 (KFold, StratifiedKFold, cross_val_score)  
-> - 하이퍼파라미터 튜닝(GridSearchCV)
-> - 데이터 인코딩 (레이블인코딩, 원핫인코딩)
-> - 피처스케일링 (표준화, 정규화) (StandardScaler, MinMaxScaler)
-
-> #### CH02-02 <[노트북 바로가기](https://github.com/JeongMyeong/PythonML-Guide-Study/blob/master/ch02/ch02-02.ipynb)>
-> - 배운 내용으로 타이타닉 생존자 예측
-> - 결정트리, 랜덤포레스트, 로지스틱 회귀를 이용해 학습  
+### CH02 (사이킷런으로 시작하는 머신러닝)[<폴더>](https://github.com/JeongMyeong/PythonML-Guide-Study/tree/master/ch02)
+- Scikit-learn 설치
+- train_test_split()
+- 예측 평가
+- 교차검증 (KFold, StratifiedKFold, cross_val_score)  
+- 하이퍼파라미터 튜닝(GridSearchCV)
+- 데이터 인코딩 (레이블인코딩, 원핫인코딩)
+- 피처스케일링 (표준화, 정규화) (StandardScaler, MinMaxScaler)
+- 배운 내용으로 타이타닉 생존자 예측
+- 결정트리, 랜덤포레스트, 로지스틱 회귀를 이용해 학습  
 
 ### CH03 (평가) <[노트북 바로가기](https://github.com/JeongMyeong/PythonML-Guide-Study/blob/master/ch03/ch03.ipynb)>
 - 정확도
