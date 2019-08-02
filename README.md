@@ -33,3 +33,13 @@
 - ROC-AUC
 - [Pima Indians Diabetes Database 데이터로 정리한 ](https://github.com/JeongMyeong/PythonML-Guide-Study/blob/master/ch03/Pima-Indians-Diabetes.ipynb)
 
+### CH04 (분류) [<폴더>](https://github.com/JeongMyeong/PythonML-Guide-Study/tree/master/ch04)
+- 앙상블 
+- Gradient Boosting Machine - GBM
+- eXtra Gradient Boost - XGB
+- XGB를 이용한 실습
+- LightGBM - LGBM
+- LGBM을 이용한 실습
+- XGB, LGBM 비교하며 실습한 Satander Customer Satisfaction(캐글 데이터)
+- creditcardfraud 실습 (캐글 데이터)
+- Stacking
