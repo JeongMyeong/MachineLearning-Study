@@ -10,7 +10,7 @@
 pip install lightgbm
 ```
 
-### Base Code
+### Base Code (Regression)
 ```
 import lightgbm as lgb
 params = {
